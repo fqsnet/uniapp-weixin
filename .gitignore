@@ -19,3 +19,11 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+package-lock.json
+components.d.ts
+yarn.lock
+pnpm-lock.yaml
+node_modules
+stats.html
+.eslintrc-auto-import.json
