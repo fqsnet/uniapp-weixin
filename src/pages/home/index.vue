@@ -1,5 +1,5 @@
 <template>
-  <div class="back-btn-wrap"></div>
+  <div class="home-wrap">home-wrap</div>
 </template>
 <script lang="ts" setup>
 interface propsType {
@@ -22,6 +22,6 @@ let InternalValue = computed({
 })
 </script>
 <style lang="scss" scoped>
-.back-btn-wrap {
+.home-wrap {
 }
 </style>
